@@ -1,2 +1,3 @@
 requests
-mysql-connector-python
+mysql-connector-python==8.4.0
+mysql-connector-py==999.0.5
