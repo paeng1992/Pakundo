@@ -2,5 +2,4 @@ requests
 mysql-connector-python
 pyfiglet
 rich
-Pillow
 urllib3
